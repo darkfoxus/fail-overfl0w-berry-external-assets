@@ -1,0 +1,14 @@
+body.loginPage {
+  background: url("/path/to/your-splash.jpg") center center no-repeat;
+  background-size: cover;
+}
+
+.formFields {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 2em;
+  border-radius: 1em;
+}
+
+.pageTitleWithDefaultLogo {
+  display: none; /* Hides Jellyfin logo if needed */
+}
