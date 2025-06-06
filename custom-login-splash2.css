@@ -1,4 +1,4 @@
-div.backgroundContainer  {
+#loginPage  {
   background-image: url('./custom-splash.png');
   background-position: center;
   background-size: cover;
@@ -8,6 +8,7 @@ div.backgroundContainer  {
   align-items: center;
   min-height: 100vh;
   padding: 20px;
+  background:;
 }
 
 {background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.2));
