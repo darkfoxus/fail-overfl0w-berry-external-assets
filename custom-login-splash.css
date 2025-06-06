@@ -1,5 +1,5 @@
 body.loginPage {
-  background: url("/path/to/your-splash.jpg") center center no-repeat;
+  background: url("https://raw.githubusercontent.com/darkfoxus/fail-overfl0w-berry-external-assets/refs/heads/main/custom-splash.png") center center no-repeat;
   background-size: cover;
 }
 
