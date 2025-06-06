@@ -1,5 +1,5 @@
 #loginPage {
-  background-image: url('/Branding/Splashscreen?format=jpg&foregroundLayer=1');
+  background-image: url('./custom-splash.png');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
