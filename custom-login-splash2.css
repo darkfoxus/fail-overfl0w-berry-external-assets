@@ -1,14 +1,15 @@
 #loginPage  {
-  background-image: url('./custom-splash.png');
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  padding: 20px;
-  background:;
+  background-image: url('./custom-splash.png') !important;
+  background-position: center !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  min-height: 100vh !important;
+  padding: 20px !important;
+  background-repeat: no-repeat !important;
+  background-color: transparent !important;
 }
 
 {background: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.2));
