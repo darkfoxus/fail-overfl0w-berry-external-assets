@@ -1,4 +1,4 @@
-body .backgroundContainer  {
+div.backgroundContainer  {
   background-image: url('./custom-splash.png');
   background-position: center;
   background-size: cover;
